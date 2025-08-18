@@ -10,7 +10,7 @@ My personal-professional portal lives right [here](https://github.com/toshon-jen
 | Role        | Description                                                                 |
 |-------------|------------------------------------------------------------------------------|
 | Educator | IT Coordinator and Instructor at The City School, and co-founder of **Cert-Ready Technology Academy**—empowering learners through infrastructure and onboarding. |
-| Builder/ Designer | Architect of [Samo-Wiki™](https://github.com/toshon-jennings/samo-wiki/wiki), aka ToshonHub—a functional repurposing of GitHub; creator of [CAps™](https://toshon-jennings.github.io/DoubleCapsCorrect/), a text input utility for keyboard perfectionsts, and its documentary companion [CAps-Cortex™](https://toshon-jennings.github.io/caps-cortex/); designer of SysAudit™, a lightweight system configuration reporting tool (release date upcoming).
+| Builder/ Designer | Architect of [SAMO-WIKI™](https://github.com/toshon-jennings/samo-wiki/wiki), aka ToshonHub—a functional repurposing of GitHub; creator of [CAps™](https://toshon-jennings.github.io/DoubleCapsCorrect/), a text input utility for keyboard perfectionsts, and its documentary companion [CAps-Cortex™](https://toshon-jennings.github.io/caps-cortex/); designer of SysAudit™, a lightweight system configuration reporting tool (release date upcoming).
 | Writer    | Explorer of AI "psychology" and behavior, trust architecture, and emotionally resonant, plain language documentation. Author of [Something That's Not Nothing: An Encounter With the Uncanny Valley Of AI Behavior](). Creator of [Hills to Die On (& Other Ideas)™](https://github.com/toshon-jennings/samo-wiki/wiki/%F0%9F%92%BB-Hills-To-Die-On-%28%26-Other-Ideas%29). |
 
 ---
@@ -46,7 +46,7 @@ My personal-professional portal lives right [here](https://github.com/toshon-jen
 
 ## 🌐 Connect & Explore
 
-- 🏠 [Samo-Wiki](https://github.com/toshon-jennings/samo-wiki/wiki)
+- 🏠 [SAMO-WIKI™](https://github.com/toshon-jennings/samo-wiki/wiki)
 - 🧭 [CRTA Portal](https://toshon-jennings.github.io/crta/)
 - 📦 [Tool Taxonomy](https://github.com/toshon-jennings/samo-wiki/wiki/Tool-Taxonomy)
 
