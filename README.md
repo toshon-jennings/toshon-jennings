@@ -23,7 +23,7 @@ My personal-professional portal lives right [here](https://github.com/toshon-jen
   - CAps™
   - [SysAudit™]  
   - [Clarity OSINT™], and OSIRT v1 fork  
-  - [Samo-Wiki™]  
+  - [SAMO-WIKI™]  
 </details>
 
 <details>
