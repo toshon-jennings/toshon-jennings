@@ -7,7 +7,7 @@ My personal-professional portal lives right [here](https://github.com/toshon-jen
 
 ---
 
-#### 🚧 _This profile is currently under construction, but up and running._
+#### 🚧 _This profile's currently under construction, but it's up and running._
 
 ---
 
