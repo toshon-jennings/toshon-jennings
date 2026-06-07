@@ -1,65 +1,53 @@
-# About Toshon
-[Learn more](https://toshon-jennings.github.io/caps-cortex/about.html)
+# Toshon Jennings
 
-Systems steward. Dashboard architect. Educator. Explorer of trust-centered design.
+**Systems steward. Dashboard architect. Educator.**
 
-My personal-professional portal lives right [here](https://github.com/toshon-jennings/samo-wiki/wiki) on GitHub, so I'm not hard to find.
-
----
-
-#### 🚧 _This profile's currently under construction, but it's up and running._
+I build tools at the intersection of AI, developer experience, and trust-centered design. Currently focused on open-source AI interfaces and productivity platforms.
 
 ---
 
+## What I'm Building
 
-## Who I Am
+### [Perci](https://github.com/toshon-jennings/opal) — Open-Source AI Chat Interface
+A desktop-grade, multi-provider AI chat application. Electron wrapper, Deep Research mode, advanced reasoning UI, Artifacts panel, and intelligent web search. Built for serious work across any domain.
 
-| Role        | Description                                                                 |
-|-------------|------------------------------------------------------------------------------|
-| Educator | IT Coordinator and Instructor at The City School, and co-founder of **[Cert-Ready Technology Academy](https://toshon-jennings.github.io/crta/)**—empowering learners through infrastructure and onboarding. |
-| Builder/ Designer | [SAMO-WIKI™](https://github.com/toshon-jennings/samo-wiki/wiki), aka ToshonHub—a functional repurposing of GitHub; creator of [CAps™](https://toshon-jennings.github.io/DoubleCapsCorrect/), a text input utility for keyboard perfectionsts, and its documentary companion [CAps-Cortex™](https://toshon-jennings.github.io/caps-cortex/); designer of SysAudit™, a lightweight system configuration reporting tool (release date upcoming).
-| Writer    | Explorer of AI "psychology" and behavior, trust architecture, and emotionally resonant, plain language documentation. Author of [Something That's Not Nothing: An Encounter with the Uncanny Valley Of AI Behavior](). Creator of [Hills to Die On (& Other Ideas)™](https://github.com/toshon-jennings/samo-wiki/wiki/%F0%9F%92%BB-Hills-To-Die-On-%28%26-Other-Ideas%29). |
+`React` · `TypeScript` · `Electron` · `Vite`
 
----
+### [Mercury](https://github.com/toshon-jennings/mercury) — Agent Desktop
+A native desktop application for configuring and chatting with AI agents. Multi-provider support, streaming chat, session management, and messaging gateway integrations.
 
-## 🛠️ Some Work
+`TypeScript` · `Electron`
 
-<details>
-  <summary>🐙 GitHub Projects</summary>
+### [HANDOFF.md](https://github.com/toshon-jennings/handoff.md) — Agent Continuity Spec
+A platform-agnostic, zero-overhead standard for state persistence and context preservation between AI agent sessions. Markdown-based, human-readable, model-agnostic.
 
-  - CAps™
-  - [SysAudit™]  
-  - [Clarity OSINT™], and OSIRT v1 fork  
-  - [SAMO-WIKI™](https://github.com/toshon-jennings/samo-wiki/wiki)  
-</details>
+`Open Spec` · `v1.1.0`
 
-<details>
-  <summary>📚 Wikis & Portals</summary>
+### [SAMO-WIKI](https://github.com/toshon-jennings/samo-wiki) — Trusted Workspace Hub
+A structured workspace for documentation, knowledge management, and project coordination.
 
-  - [CAps™ Wiki]()  
-  - [CRTA]()  
-  - [ToshonHub]()  
-</details>
-
-<details>
-  <summary>💭 Writing and Reflections</summary>
-
-  - [Something That's Not Nothing: An Encounter With the Uncanny Valley of AI Behavior]()  
-  - [Hills to Die On (& Other Ideas](https://github.com/toshon-jennings/samo-wiki/wiki/%F0%9F%92%BB-Hills-To-Die-On-%28%26-Other-Ideas%29)  
-  - []()  
-</details>
+`TypeScript`
 
 ---
 
-## 🌐 Connect & Explore
+## Tech Stack
 
-- 🏠 [SAMO-WIKI™](https://github.com/toshon-jennings/samo-wiki/wiki)
-- 🧭 [CRTA Portal](https://toshon-jennings.github.io/crta/)
-- 📦 [Tool Taxonomy](https://github.com/toshon-jennings/samo-wiki/wiki/Tool-Taxonomy)
+`TypeScript` · `React` · `Node.js` · `Electron` · `Python` · `Supabase` · `Tailwind CSS` · `Ollama` · `OpenAI` · `LangChain`
 
 ---
 
-## 🗺️ Philosophy
+## Writing
+
+- [Something That's Not Nothing: An Encounter with the Uncanny Valley of AI Behavior](https://github.com/toshon-jennings/samo-wiki/wiki/%F0%9F%92%BB-Hills-To-Die-On-%28%26-Other-Ideas%29)
+- [Hills to Die On (& Other Ideas)](https://github.com/toshon-jennings/samo-wiki/wiki/%F0%9F%92%BB-Hills-To-Die-On-%28%26-Other-Ideas%29)
+
+---
+
+## Connect
+
+- X: [@toshonjennings](https://x.com/toshonjennings)
+- CRTA: [Cert-Ready Technology Academy](https://toshon-jennings.github.io/crta/)
+
+---
+
 > Plants the seeds of tomorrow's tech field today.
-
-
