@@ -23,7 +23,7 @@ A platform-agnostic, zero-overhead standard for state persistence and context pr
 
 `Open Spec` · `v1.1.0`
 
-### [SAMO-WIKI](https://github.com/toshon-jennings/samo-wiki) — Trusted Workspace Hub
+### [SAMO-WIKI](https://github.com/toshon-jennings/samo-wiki/wiki) — Trusted Workspace Hub
 A structured workspace for documentation, knowledge management, and project coordination.
 
 `TypeScript`
