@@ -13,7 +13,7 @@ A desktop-grade, multi-provider AI chat application. Electron wrapper, Deep Rese
 
 `React` · `TypeScript` · `Electron` · `Vite`
 
-### [Mercury](https://github.com/toshon-jennings/mercury) — Agent Desktop
+### [Mercury](https://github.com/toshon-jennings/mercury) — (Unofficial) Hermes Agent Desktop App
 A native desktop application for configuring and chatting with AI agents. Multi-provider support, streaming chat, session management, and messaging gateway integrations.
 
 `TypeScript` · `Electron`
