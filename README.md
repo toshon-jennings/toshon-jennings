@@ -82,6 +82,26 @@ Currently focused on open-source AI interfaces and productivity platforms.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [PORTMASTER.md](https://github.com/toshon-jennings/PORTMASTER-md)
+
+**Port registry for AI agents.** A single source of truth for service ports on a machine. Agents read it before binding ports. Humans update it when services change. Zero dependencies — just a Markdown file.
+
+`Open Spec` · `CC0`
+
+</td>
+<td width="50%" valign="top">
+
+### Agent Rules Suite
+
+**A family of specs for AI agent reliability.** HANDOFF.md handles session continuity. HITL.md handles decision boundaries. PORTMASTER.md handles infrastructure order. Together they form a lightweight governance layer that any agent on any platform can adopt.
+
+`Open Standards`
+
+</td>
+</tr>
 </table>
 
 <br>
