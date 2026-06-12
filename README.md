@@ -96,13 +96,6 @@ Currently focused on open-source AI interfaces and productivity platforms.
 
 <br>
 
-## Writing
-
-- **[Something That's Not Nothing](https://github.com/toshon-jennings/samo-wiki/wiki/%F0%9F%92%BB-Hills-To-Die-On-%28%26-Other-Ideas%29)** — an encounter with the uncanny valley of AI behavior
-- **[Hills to Die On (& Other Ideas)](https://github.com/toshon-jennings/samo-wiki/wiki/%F0%9F%92%BB-Hills-To-Die-On-%28%26-Other-Ideas%29)** — opinions, held deliberately
-
-<br>
-
 ---
 
 <div align="center">
