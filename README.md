@@ -36,7 +36,7 @@ Currently focused on open-source AI interfaces and productivity platforms.
 
 ### [Perci](https://github.com/toshon-jennings/opal)
 
-**This is not an AI chat app. It's a command center.** A desktop-grade, multi-provider AI chat application — Electron wrapper, Deep Research mode, advanced reasoning UI, Artifacts panel, intelligent web search. And *more*. Built for serious work across any domain. You pay nothing.
+**This is not an AI chat app. It's a command center.** A desktop-grade, multi-provider full AI interface — Mission Control, Deep Research mode, advanced reasoning UI, Artifacts panel, intelligent web search. And *more*. Built for serious work across any domain. You pay nothing.
 
 `React` · `TypeScript` · `Electron` · `Vite`
 
@@ -47,7 +47,7 @@ Currently focused on open-source AI interfaces and productivity platforms.
 
 ### [Mercury](https://github.com/toshon-jennings/mercury)
 
-**(Unofficial) Hermes agent desktop app.** A native desktop application for configuring and chatting with AI agents. Multi-provider support, streaming chat, session management, and messaging gateway integrations.
+**(Unofficial) Hermes agent desktop app.** An open-source desktop application for configuring and chatting with Hermes agent. Native terminal, multi-provider support, streaming chat, session management, and messaging gateway integrations.
 
 `TypeScript` · `Electron`
 
