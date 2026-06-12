@@ -25,6 +25,17 @@ Currently focused on open-source AI interfaces and productivity platforms.
 <tr>
 <td width="50%" valign="top">
 
+### [StudioOS](https://studioos.dev)
+
+**AI-Integrated dev workspace & personal wiki.** A premium, locally-orchestrated environment for managing knowledge, code, project journals, and custom AI tools. Monospace-focused, developer-centric, highly-integrated.
+
+v2.6.1.
+
+`React` · `TypeScript` · `Electron` · `Vite`
+
+</td>
+<td width="50%" valign="top">
+  
 ### [Perci](https://github.com/toshon-jennings/opal)
 
 **Open-source AI chat interface.** A desktop-grade, multi-provider AI chat application — Electron wrapper, Deep Research mode, advanced reasoning UI, Artifacts panel, and intelligent web search. Built for serious work across any domain.
