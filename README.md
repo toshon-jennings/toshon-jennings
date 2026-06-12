@@ -21,7 +21,12 @@ A native desktop application for configuring and chatting with AI agents. Multi-
 ### [HANDOFF.md](https://github.com/toshon-jennings/handoff.md) — Agent Continuity Spec
 A platform-agnostic, zero-overhead standard for state persistence and context preservation between AI agent sessions. Markdown-based, human-readable, model-agnostic.
 
-`Open Spec` · `v1.1.0`
+`Open Spec` · `v0.1.0`
+
+### [HITL.md](https://github.com/toshon-jennings/HITL) — Human-in-the-Loop Ledger
+A lightweight, append-only standard for logging human rulings and establishing clear decision boundaries for AI coding agents. Markdown-based, human-readable, model-agnostic.
+
+Open Spec · v0.1.0
 
 ### [SAMO-WIKI](https://github.com/toshon-jennings/samo-wiki/wiki) — Trusted Workspace Hub
 A structured workspace for documentation, knowledge management, and project coordination.
