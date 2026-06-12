@@ -29,13 +29,11 @@ Currently focused on open-source AI interfaces and productivity platforms.
 
 **AI-Integrated dev workspace & personal wiki.** A premium, locally-orchestrated environment for managing knowledge, code, project journals, and custom AI tools. Monospace-focused, developer-centric, highly-integrated.
 
-v2.6.1.
-
-`React` · `TypeScript` · `Electron` · `Vite`
+`React` · `TypeScript` · `Electron` · `Vite` · `v2.6.1`
 
 </td>
 <td width="50%" valign="top">
-  
+
 ### [Perci](https://github.com/toshon-jennings/opal)
 
 **Open-source AI chat interface.** A desktop-grade, multi-provider AI chat application — Electron wrapper, Deep Research mode, advanced reasoning UI, Artifacts panel, and intelligent web search. Built for serious work across any domain.
@@ -43,6 +41,8 @@ v2.6.1.
 `React` · `TypeScript` · `Electron` · `Vite`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Mercury](https://github.com/toshon-jennings/mercury)
@@ -50,6 +50,15 @@ v2.6.1.
 **(Unofficial) Hermes agent desktop app.** A native desktop application for configuring and chatting with AI agents. Multi-provider support, streaming chat, session management, and messaging gateway integrations.
 
 `TypeScript` · `Electron`
+
+</td>
+<td width="50%" valign="top">
+
+### [SAMO-WIKI](https://github.com/toshon-jennings/samo-wiki/wiki)
+
+**Trusted workspace hub.** A structured workspace for documentation, knowledge management, and project coordination.
+
+`TypeScript`
 
 </td>
 </tr>
@@ -70,17 +79,6 @@ v2.6.1.
 **Human-in-the-loop ledger.** A lightweight, append-only standard for logging human rulings and establishing clear decision boundaries for AI coding agents. The companion spec to HANDOFF.md.
 
 `Open Spec` · `v0.1.0`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### [SAMO-WIKI](https://github.com/toshon-jennings/samo-wiki/wiki)
-
-**Trusted workspace hub.** A structured workspace for documentation, knowledge management, and project coordination — where the writing below lives.
-
-`TypeScript`
 
 </td>
 </tr>
