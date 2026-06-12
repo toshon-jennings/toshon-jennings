@@ -27,7 +27,7 @@ Currently focused on open-source AI interfaces and productivity platforms.
 
 ### [StudioOS](https://studioos.dev)
 
-**AI-Integrated dev workspace & personal wiki.** A premium, locally-orchestrated environment for managing knowledge, code, project journals, and custom AI tools. Monospace-focused, developer-centric, highly-integrated. Generous free tier.
+**AI-Integrated dev workspace & personal wiki.** A premium, locally-orchestrated environment for managing knowledge, code, project journals, and custom AI tools. Monospace-focused, developer-centric, highly-integrated. Generous free tier. Active development.
 
 `React` · `TypeScript` · `Electron` · `Vite` · `v2.6.1`
 
