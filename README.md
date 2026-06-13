@@ -34,7 +34,7 @@ Currently focused on open-source AI interfaces and productivity platforms.
 </td>
 <td width="50%" valign="top">
 
-### [Perci](https://github.com/toshon-jennings/opal)
+### [Perci](https://github.com/toshon-jennings/perci)
 
 **This is not an AI chat app. It's a command center.** A locally installed multi-provider AI interface: Mission Control. Two Autoresearch modes. A UI surface for the ultimate OpenClaw experience in Perci, and another one for Hermes. Advanced reasoning UI. Artifacts panel. Intelligent web search. And *more*. Built for serious work across any domain. You pay nothing forever. Active development; pre-stable release.
 
