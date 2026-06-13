@@ -106,7 +106,7 @@ Currently focused on open-source AI interfaces and productivity platforms.
 </td>
 </tr>
 </table>
-
+<hr>
 <br>
 
 ## Stack
