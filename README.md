@@ -66,14 +66,6 @@ Currently focused on open-source AI interfaces and productivity platforms.
 
 ---
 
-### Agent Rules Suite
-
-**A family of specs for AI agent reliability.** HANDOFF.md handles session continuity. HITL.md handles decision boundaries. PORTMASTER.md handles infrastructure order. Together they form a lightweight governance layer that any agent on any platform can adopt.
-
-`Open Standards`
-
----
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -106,6 +98,12 @@ Currently focused on open-source AI interfaces and productivity platforms.
 
 </td>
 <td width="50%" valign="top">
+
+### Agent Rules Suite
+
+**A family of specs for AI agent reliability.** HANDOFF.md handles session continuity. HITL.md handles decision boundaries. PORTMASTER.md handles infrastructure order. Together they form a lightweight governance layer that any agent on any platform can adopt.
+
+`Open Standards`
 
 </td>
 </tr>
