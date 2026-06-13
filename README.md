@@ -62,10 +62,11 @@ Currently focused on open-source AI interfaces and productivity platforms.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
 <hr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### [HANDOFF.md](https://github.com/toshon-jennings/handoff.md)
 
