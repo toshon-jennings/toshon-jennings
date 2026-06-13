@@ -74,6 +74,8 @@ Currently focused on open-source AI interfaces and productivity platforms.
 
 <table>
 
+<td width="50%" valign="top">
+
 ### [HANDOFF.md](https://github.com/toshon-jennings/handoff.md)
 
 **Agent continuity spec.** A platform-agnostic, zero-overhead standard for state persistence and context preservation between AI agent sessions. Markdown-based, human-readable, model-agnostic.
