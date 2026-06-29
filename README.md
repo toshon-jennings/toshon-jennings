@@ -117,7 +117,7 @@ Installable packages across npm, PyPI, and Homebrew.
 
 <br>
 
-## Agent Reliability Suite
+## Agent Rules Suite
 
 Open specifications for AI agent governance, continuity, and orientation.
 
