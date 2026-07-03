@@ -168,7 +168,7 @@ Open specifications for AI agent governance, continuity, and orientation.
 
 <div align="center">
 
-<samp>Plants the seeds of tomorrow's tech field today.</samp>
+<samp>Planting the seeds of tomorrow's tech field today.</samp>
 
 <br><br>
 
