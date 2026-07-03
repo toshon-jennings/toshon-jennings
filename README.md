@@ -101,6 +101,26 @@ macOS developer cache cleanup utility. Zero-dependency bash script for uv, pip, 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [PHLCRSH-V2](https://github.com/toshon-jennings/PHLCRSH-V2)
+
+Interactive crash risk engine and street safety mapping dashboard. DuckDB-WASM-powered spatial analysis of KSI hazards across Philadelphia street segments.
+
+`React` · `DuckDB` · `GIS` · `MapLibre`
+
+</td>
+<td width="50%" valign="top">
+
+### [CRSH-NXS](https://github.com/toshon-jennings/CRSH-NXS)
+
+Central directory for localized city crash engines. Interconnecting regional safety mapping, road segment analytics, and accident exposure engines.
+
+`React` · `GIS` · `Federation` · `Vision Zero`
+
+</td>
+</tr>
 </table>
 
 <br>
