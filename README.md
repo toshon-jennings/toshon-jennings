@@ -64,46 +64,6 @@ Hermes agent desktop app. Native terminal, multi-provider support, streaming cha
 <tr>
 <td width="50%" valign="top">
 
-### [Klipit](https://github.com/toshon-jennings/klipit)
-
-Personal link-memory browser extension. Save links with one click, capture context, cluster related items. No backend, no account.
-
-`TypeScript` · `Chrome Extension` · `Firefox Add-on`
-
-</td>
-<td width="50%" valign="top">
-
-### [Lighthouse](https://github.com/toshon-jennings/lighthouse)
-
-Port-awareness tool for developers. Real port scanning with process identification, command line, working directory, parent PID.
-
-`TypeScript` · `Electron` · `Rust`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [CAps ™](https://github.com/toshon-jennings/DoubleCapsCorrect)
-
-Background keyboard utility. Detects and corrects accidental double-caps from holding Shift too long.
-
-`C` · `Background Service`
-
-</td>
-<td width="50%" valign="top">
-
-### [CleanMac](https://github.com/toshon-jennings/cleanmac)
-
-macOS developer cache cleanup utility. Zero-dependency bash script for uv, pip, npm, bun, Homebrew, Xcode, Docker/OrbStack. Installs via Homebrew tap.
-
-`Bash` · `Homebrew` · `v1.1.0`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [PHLCRSH-V2](https://github.com/toshon-jennings/PHLCRSH-V2)
 
 Interactive crash risk engine and street safety mapping dashboard. DuckDB-WASM-powered spatial analysis of KSI hazards across Philadelphia street segments.
@@ -118,6 +78,73 @@ Interactive crash risk engine and street safety mapping dashboard. DuckDB-WASM-p
 Central directory for localized city crash engines. Interconnecting regional safety mapping, road segment analytics, and accident exposure engines.
 
 `React` · `GIS` · `Federation` · `Vision Zero`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Utilities
+
+Small tools for the everyday developer.
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Lighthouse](https://github.com/toshon-jennings/lighthouse)
+
+Port-awareness tool for developers. Real port scanning with process identification, command line, working directory, parent PID.
+
+`TypeScript` · `Electron` · `Rust`
+
+</td>
+<td width="50%" valign="top">
+
+### [CAps ™](https://github.com/toshon-jennings/DoubleCapsCorrect)
+
+Background keyboard utility. Detects and corrects accidental double-caps from holding Shift too long.
+
+`C` · `Background Service`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CleanMac](https://github.com/toshon-jennings/cleanmac)
+
+macOS developer cache cleanup utility. Zero-dependency bash script for uv, pip, npm, bun, Homebrew, Xcode, Docker/OrbStack. Installs via Homebrew tap.
+
+`Bash` · `Homebrew` · `v1.1.0`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Extensions
+
+Browser extensions that travel with you.
+
+<br>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### [Klipit](https://github.com/toshon-jennings/klipit)
+
+Personal link-memory browser extension. Save links with one click, capture context, cluster related items. No backend, no account.
+
+`TypeScript` · `Chrome Extension` · `Firefox Add-on`
 
 </td>
 </tr>
