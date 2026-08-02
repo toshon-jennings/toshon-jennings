@@ -81,6 +81,46 @@ Central directory for localized city crash engines. Interconnecting regional saf
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Cassandra](https://github.com/toshon-jennings/cassandra)
+
+Real-time global intelligence and AI forecasting platform. Unifies live aviation, maritime, CCTV, seismic, conflict, and market signals in one GPU-accelerated dashboard.
+
+`Next.js` · `TypeScript` · `MapLibre` · `Local AI`
+
+</td>
+<td width="50%" valign="top">
+
+### [Pelican on a Bike](https://github.com/toshon-jennings/pelican-on-a-bike)
+
+Living gallery of CSS animation tests—each one a different AI model's attempt at drawing a pelican riding a bicycle.
+
+`HTML` · `CSS Animation` · `GitHub Pages`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Taste](https://github.com/toshon-jennings/taste)
+
+Learned coding preferences for Claude Code, captured from real signals as readable Markdown and shared over Git.
+
+`JavaScript` · `Claude Code` · `Git`
+
+</td>
+<td width="50%" valign="top">
+
+### [Bars](https://github.com/toshon-jennings/bars)
+
+Local-first idea notebook for capturing, scoring, and refining thoughts before they fade, with desktop AI and a responsive mobile companion.
+
+`JavaScript` · `Electron` · `Local-first` · `AI`
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -132,6 +172,26 @@ Local command center for your GitHub repos — commits, Actions CI status, depen
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [MarkItDown UI](https://github.com/toshon-jennings/markitdown-ui)
+
+Desktop interface for Microsoft's MarkItDown. Convert files and office documents into Markdown through a graphical workflow.
+
+`Python` · `FastAPI` · `MarkItDown`
+
+</td>
+<td width="50%" valign="top">
+
+### [Apfel Harness](https://github.com/toshon-jennings/apfel-harness)
+
+Local web interface for Apple Intelligence's on-device Foundation Models, with streaming chat, constrained JSON, batch processing, and MCP tools.
+
+`JavaScript` · `Apple Intelligence` · `Local AI`
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -167,6 +227,7 @@ Installable packages across npm, PyPI, and Homebrew.
 | | | |
 |:---|:---|:---|
 | **[perci-story](https://github.com/toshon-jennings/perci-story)** `npm` Build an evidence-backed product story from Git history and an optional Graphify knowledge graph. | **[graphify-diff](https://github.com/toshon-jennings/graphify-diff)** `PyPI` Patch a Graphify knowledge graph incrementally from git diffs — no re-extraction, no LLM calls. | **[config-map](https://github.com/toshon-jennings/config-map)** `PyPI` A beautiful terminal map of your configuration files. |
+| **[Homebrew Tap](https://github.com/toshon-jennings/homebrew-tap)** `Homebrew` Installation source for Toshon Jennings' macOS tools and command-line utilities. | | |
 
 <br>
 
