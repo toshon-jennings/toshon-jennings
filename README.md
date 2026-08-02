@@ -124,6 +124,12 @@ macOS developer cache cleanup utility. Zero-dependency bash script for uv, pip, 
 </td>
 <td width="50%" valign="top">
 
+### [GitHub Overview](https://github.com/toshon-jennings/github-overview)
+
+Local command center for your GitHub repos — commits, Actions CI status, dependency alerts, issues, and PRs — as one self-contained Go binary.
+
+`Go` · `SQLite` · `HTMX`
+
 </td>
 </tr>
 </table>
