@@ -249,10 +249,22 @@ Open specifications for AI agent governance, continuity, and orientation.
 <div align="center">
 
 ![TypeScript](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/typescript.svg)
-![React](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/react.svg)
-![Electron](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/electron.svg)
+![JavaScript](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/javascript.svg)
 ![Python](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/python.svg)
 ![Rust](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/rust.svg)
+![Go](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/go.svg)
+![C](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/c.svg)
+![Bash](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/bash.svg)
+![React](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/react.svg)
+![Next.js](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/nextjs.svg)
+![Electron](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/electron.svg)
+![Vite](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/vite.svg)
+![Node.js](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/nodejs.svg)
+![FastAPI](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/fastapi.svg)
+![SQLite](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/sqlite.svg)
+![DuckDB](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/duckdb.svg)
+![HTML](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/html.svg)
+![CSS](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/css.svg)
 
 </div>
 
