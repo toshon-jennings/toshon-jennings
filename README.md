@@ -113,7 +113,7 @@ Learned coding preferences for Claude Code, captured from real signals as readab
 </td>
 <td width="50%" valign="top">
 
-### [Bars](https://github.com/toshon-jennings/bars)
+### [BARS](https://github.com/toshon-jennings/bars)
 
 Local-first idea notebook for capturing, scoring, and refining thoughts before they fade, with desktop AI and a responsive mobile companion.
 
