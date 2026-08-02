@@ -2,7 +2,7 @@
 
 # Toshon Jennings
 
-<samp>systems steward · dashboard architect · educator</samp>
+<samp>systems steward · product architect · educator</samp>
 
 <br>
 
