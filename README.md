@@ -139,7 +139,7 @@ Small tools for the everyday developer.
 
 Port-awareness tool for developers. Real port scanning with process identification, command line, working directory, parent PID.
 
-`TypeScript` · `Electron` · `Rust`
+`TypeScript` · `Tauri` · `Rust`
 
 </td>
 <td width="50%" valign="top">
@@ -258,6 +258,7 @@ Open specifications for AI agent governance, continuity, and orientation.
 ![React](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/react.svg)
 ![Next.js](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/nextjs.svg)
 ![Electron](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/electron.svg)
+![Tauri](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/tauri.svg)
 ![Vite](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/vite.svg)
 ![Node.js](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/nodejs.svg)
 ![FastAPI](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/fastapi.svg)
