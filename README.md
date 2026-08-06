@@ -121,6 +121,17 @@ Local-first idea notebook for capturing, scoring, and refining thoughts before t
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OpenCode Workbench](https://github.com/toshon-jennings/opencode-workbench)
+
+Community fork of OpenCode with an integrated terminal and always-on usage HUD. Stays closely aligned with upstream OpenCode.
+
+`TypeScript` · `Astro` · `CSS` · `MDX`
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -282,3 +293,4 @@ Open specifications for AI agent governance, continuity, and orientation.
 [![Profile](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/profile.svg)](https://studioos.dev/u/toshon.tech)
 
 </div>
+
