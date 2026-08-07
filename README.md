@@ -124,7 +124,7 @@ Local-first idea notebook for capturing, scoring, and refining thoughts before t
 <tr>
 <td width="50%" valign="top">
 
-### [OpenCode Workbench](https://github.com/toshon-jennings/opencode-workbench)
+### [OpenCode Rig](https://github.com/toshon-jennings/opencode-rig)
 
 Community fork of OpenCode with an integrated terminal and always-on usage HUD. Stays closely aligned with upstream OpenCode.
 
