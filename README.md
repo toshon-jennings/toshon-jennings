@@ -93,7 +93,7 @@ Real-time global intelligence and AI forecasting platform. Unifies live aviation
 </td>
 <td width="50%" valign="top">
 
-### [Pelican on a Bike](https://github.com/toshon-jennings/pelican-on-a-bike)
+### [Pelicans On Bikes](https://github.com/toshon-jennings/pelican-on-a-bike)
 
 Living gallery of CSS animation tests—each one a different AI model's attempt at drawing a pelican riding a bicycle. Still growing.
 
