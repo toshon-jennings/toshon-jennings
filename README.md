@@ -238,7 +238,7 @@ Installable packages across npm, PyPI, and Homebrew.
 | | | |
 |:---|:---|:---|
 | **[perci-story](https://github.com/toshon-jennings/perci-story)** `npm` Build an evidence-backed product story from Git history and an optional Graphify knowledge graph. | **[graphify-diff](https://github.com/toshon-jennings/graphify-diff)** `PyPI` Patch a Graphify knowledge graph incrementally from git diffs — no re-extraction, no LLM calls. | **[config-map](https://github.com/toshon-jennings/config-map)** `PyPI` A beautiful terminal map of your configuration files. |
-| **[Homebrew Tap](https://github.com/toshon-jennings/homebrew-tap)** `Homebrew` Installation source for Toshon Jennings' macOS tools and command-line utilities. | | |
+| **[FMK ToolBox](https://github.com/toshon-jennings/forget-me-knot)** `Homebrew Cask` Lightweight local-first macOS menu bar app for managing daily tools, links & active subscriptions. | **[Homebrew Tap](https://github.com/toshon-jennings/homebrew-tap)** `Homebrew` Installation source for Toshon Jennings' macOS tools and command-line utilities. | |
 
 <br>
 
