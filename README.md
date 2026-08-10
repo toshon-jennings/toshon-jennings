@@ -239,6 +239,7 @@ Installable packages across npm, PyPI, and Homebrew.
 |:---|:---|:---|
 | **[perci-story](https://github.com/toshon-jennings/perci-story)** `npm` Build an evidence-backed product story from Git history and an optional Graphify knowledge graph. | **[graphify-diff](https://github.com/toshon-jennings/graphify-diff)** `PyPI` Patch a Graphify knowledge graph incrementally from git diffs — no re-extraction, no LLM calls. | **[config-map](https://github.com/toshon-jennings/config-map)** `PyPI` A beautiful terminal map of your configuration files. |
 | **[FMK ToolBox](https://github.com/toshon-jennings/forget-me-knot)** `Homebrew Cask` Lightweight local-first macOS menu bar app for managing daily tools, links & active subscriptions. | **[Homebrew Tap](https://github.com/toshon-jennings/homebrew-tap)** `Homebrew` Installation source for Toshon Jennings' macOS tools and command-line utilities. | **[claude-taste](https://github.com/toshon-jennings/taste)** `npm` Learned coding preferences for Claude Code and OpenCode — captured from real signals, stored as markdown, shared over git. |
+| **[separate-cli-blocks](https://github.com/toshon-jennings/separate-cli-blocks)** `npm` Universal agent standard enforcing one CLI command per Markdown code block. Installable via `npx separate-cli-blocks`. | | |
 
 <br>
 
