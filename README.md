@@ -2,7 +2,7 @@
 
 # Toshon Jennings
 
-<samp>systems steward · product architect · educator</samp>
+<samp>forward deployed engineer · product architect · educator</samp>
 
 <br>
 
