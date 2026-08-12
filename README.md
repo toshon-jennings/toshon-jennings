@@ -131,6 +131,15 @@ Community fork of OpenCode with an integrated terminal and always-on usage HUD. 
 `TypeScript` · `Astro` · `CSS` · `MDX`
 
 </td>
+<td width="50%" valign="top">
+
+### [Versed](https://versed-studioos.vercel.app)
+
+GitHub-native, version-controlled workspaces for writers, strategists, and teams. Human-first checkpoints, drafts, history, and linked documents without needing to learn Git.
+
+`Next.js` · `TypeScript` · `GitHub App` · `Vercel`
+
+</td>
 </tr>
 </table>
 
@@ -237,9 +246,41 @@ Installable packages across npm, PyPI, and Homebrew.
 
 | | | |
 |:---|:---|:---|
-| **[Homebrew Tap](https://github.com/toshon-jennings/homebrew-tap)** `Homebrew` Installation source for Toshon Jennings' macOS tools and command-line utilities. | **[Forget-Me-Knot ToolBox](https://github.com/toshon-jennings/forget-me-knot)** `Homebrew Cask` Lightweight local-first macOS menu bar app for managing daily tools, links & active subscriptions. | **[claude-taste](https://github.com/toshon-jennings/taste)** `npm` Learned coding preferences for Claude Code and other agents/harnesses — captured from real signals, stored as markdown, shared over git. |
-| **[perci-story](https://github.com/toshon-jennings/perci-story)** `npm` Build an evidence-backed product story from Git history and an optional Graphify knowledge graph. | **[separate-cli-blocks](https://github.com/toshon-jennings/separate-cli-blocks)** `npm` Universal agent standard enforcing one CLI command per Markdown code block. Installable via `npx separate-cli-blocks`. | **[config-map](https://github.com/toshon-jennings/config-map)** `PyPI` A beautiful terminal map of your configuration files. |
-| **[graphify-diff](https://github.com/toshon-jennings/graphify-diff)** `PyPI` Patch a Graphify knowledge graph incrementally from git diffs — no re-extraction, no LLM calls. | | |
+| **[Homebrew Tap](https://github.com/toshon-jennings/homebrew-tap)** `Homebrew` Installation source for Toshon Jennings' macOS tools and command-line utilities. | **[Forget-Me-Knot ToolBox](https://github.com/toshon-jennings/forget-me-knot)** `Homebrew Cask` Lightweight local-first macOS menu bar app for managing daily tools, links & active subscriptions. | **[Versed](https://github.com/apps/versed-app)** `GitHub App` Installable, GitHub-native knowledge workspaces with checkpoints, drafts, history, and linked documents. |
+| **[claude-taste](https://github.com/toshon-jennings/taste)** `npm` Learned coding preferences for Claude Code and other agents/harnesses — captured from real signals, stored as markdown, shared over git. | **[perci-story](https://github.com/toshon-jennings/perci-story)** `npm` Build an evidence-backed product story from Git history and an optional Graphify knowledge graph. | **[separate-cli-blocks](https://github.com/toshon-jennings/separate-cli-blocks)** `npm` Universal agent standard enforcing one CLI command per Markdown code block. Installable via `npx separate-cli-blocks`. |
+| **[config-map](https://github.com/toshon-jennings/config-map)** `PyPI` A beautiful terminal map of your configuration files. | **[graphify-diff](https://github.com/toshon-jennings/graphify-diff)** `PyPI` Patch a Graphify knowledge graph incrementally from git diffs — no re-extraction, no LLM calls. | |
+
+### Homebrew install and update
+
+Add the tap:
+
+```bash
+brew tap toshon-jennings/tap
+```
+
+Install the macOS app:
+
+```bash
+brew install --cask fmk-toolbox
+```
+
+Install the command-line utilities:
+
+```bash
+brew install cleanmac github-overview
+```
+
+Refresh Homebrew package information:
+
+```bash
+brew update
+```
+
+Upgrade the installed packages from this tap:
+
+```bash
+brew upgrade fmk-toolbox cleanmac github-overview
+```
 
 <br>
 
@@ -294,4 +335,3 @@ Open specifications for AI agent governance, continuity, and orientation.
 [![Profile](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/profile.svg)](https://studioos.dev/u/toshon.tech)
 
 </div>
-
