@@ -25,13 +25,6 @@ Building tools at the intersection of **AI**, **developer experience**, and **tr
 
 ## A little more about me...
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-dark.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-dark.gif">
-  <img align="right" src="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-light.gif" width="230" alt="AI, developer experience, and trust converging into human-centered tools">
-</picture>
-
 ```typescript
 const toshon = {
   roles: ["forward deployed engineer", "product architect", "educator"],
@@ -41,7 +34,15 @@ const toshon = {
 };
 ```
 
-<br clear="right">
+<div align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-dark.gif">
+  <img src="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-light.gif" width="360" alt="AI, developer experience, and trust converging into human-centered tools">
+</picture>
+</div>
+
+<br>
 
 ## Featured
 
@@ -64,8 +65,7 @@ GitHub-native, version-controlled workspaces for writers, strategists, and teams
 <div align="center">
 <a href="https://versed-studioos.vercel.app">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/versed-feature-dark.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/versed-feature-light.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/versed-feature-dark.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/versed-feature-dark.gif">
   <img src="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/versed-feature-light.gif" width="100%" alt="Versed — GitHub for knowledge work. Built on Git, designed for humans.">
 </picture>
