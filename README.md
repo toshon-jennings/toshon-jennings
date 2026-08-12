@@ -272,7 +272,7 @@ Browser extensions that travel with you.
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### [Klipit](https://github.com/toshon-jennings/klipit)
 
