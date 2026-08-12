@@ -258,16 +258,16 @@ Add the tap:
 brew tap toshon-jennings/tap
 ```
 
-Install the macOS app:
+Install the macOS apps:
 
 ```bash
-brew install --cask fmk-toolbox
+brew install --cask fmk-toolbox oc-rig
 ```
 
-Install the command-line utilities:
+Install Open Anyway and the command-line utilities:
 
 ```bash
-brew install cleanmac github-overview
+brew install open-anyway cleanmac github-overview
 ```
 
 Refresh Homebrew package information:
@@ -279,7 +279,7 @@ brew update
 Upgrade the installed packages from this tap:
 
 ```bash
-brew upgrade fmk-toolbox cleanmac github-overview
+brew upgrade fmk-toolbox oc-rig open-anyway cleanmac github-overview
 ```
 
 <br>
