@@ -22,6 +22,17 @@ Building tools at the intersection of **AI**, **developer experience**, and **tr
 
 <table>
 <tr>
+<td colspan="2" width="100%" valign="top">
+
+### [Versed](https://versed-studioos.vercel.app)
+
+GitHub-native, version-controlled workspaces for writers, strategists, and teams. Human-first checkpoints, drafts, history, and linked documents without needing to learn Git.
+
+`Next.js` · `TypeScript` · `GitHub App` · `Vercel`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [StudioOS](https://studioos.dev)
@@ -129,15 +140,6 @@ Local-first idea notebook for capturing, scoring, and refining thoughts before t
 Community fork of OpenCode with an integrated terminal and always-on usage HUD. Stays closely aligned with upstream OpenCode.
 
 `TypeScript` · `Astro` · `CSS` · `MDX`
-
-</td>
-<td width="50%" valign="top">
-
-### [Versed](https://versed-studioos.vercel.app)
-
-GitHub-native, version-controlled workspaces for writers, strategists, and teams. Human-first checkpoints, drafts, history, and linked documents without needing to learn Git.
-
-`Next.js` · `TypeScript` · `GitHub App` · `Vercel`
 
 </td>
 </tr>
