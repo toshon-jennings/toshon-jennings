@@ -27,7 +27,7 @@ Building tools at the intersection of **AI**, **developer experience**, and **tr
 
 ```typescript
 const toshon = {
-  roles: ["forward deployed engineer", "product architect", "educator"],
+  roles: ["forward deployed engineer", "it admin", "educator"],
   focus: ["AI", "developer experience", "trust-centered design"],
   builds: ["desktop tools", "knowledge systems", "civic technology"],
   defaultMode: "turn complexity into something people can use",
