@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-seed.png">
+  <img src="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-seed.gif" width="54" alt="A seed growing into a connected system">
+</picture>
+
 # Toshon Jennings
 
 <samp>forward deployed engineer · product architect · educator</samp>
@@ -18,7 +23,31 @@ Building tools at the intersection of **AI**, **developer experience**, and **tr
 
 ---
 
+## A little more about me...
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-dark.gif">
+  <img align="right" src="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-system-light.gif" width="230" alt="AI, developer experience, and trust converging into human-centered tools">
+</picture>
+
+```typescript
+const toshon = {
+  roles: ["forward deployed engineer", "product architect", "educator"],
+  focus: ["AI", "developer experience", "trust-centered design"],
+  builds: ["desktop tools", "knowledge systems", "civic technology"],
+  defaultMode: "turn complexity into something people can use",
+};
+```
+
+<br clear="right">
+
 ## Featured
+
+<samp>01 / SELECTED WORK</samp>
+
+<br>
 
 <table>
 <tr>
@@ -29,6 +58,19 @@ Building tools at the intersection of **AI**, **developer experience**, and **tr
 GitHub-native, version-controlled workspaces for writers, strategists, and teams. Human-first checkpoints, drafts, history, and linked documents without needing to learn Git.
 
 `Next.js` · `TypeScript` · `GitHub App` · `Vercel`
+
+<br>
+
+<div align="center">
+<a href="https://versed-studioos.vercel.app">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/versed-feature-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/versed-feature-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/versed-feature-dark.gif">
+  <img src="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/versed-feature-light.gif" width="100%" alt="Versed — GitHub for knowledge work. Built on Git, designed for humans.">
+</picture>
+</a>
+</div>
 
 </td>
 </tr>
@@ -149,6 +191,8 @@ Community fork of OpenCode with an integrated terminal and always-on usage HUD. 
 
 ## Utilities
 
+<samp>02 / WORKING TOOLS</samp>
+
 Small tools for the everyday developer.
 
 <br>
@@ -220,6 +264,8 @@ Local web interface for Apple Intelligence's on-device Foundation Models, with s
 
 ## Extensions
 
+<samp>03 / BROWSER-SIDE</samp>
+
 Browser extensions that travel with you.
 
 <br>
@@ -242,6 +288,8 @@ Personal link-memory browser extension. Save links with one click, capture conte
 
 ## Published
 
+<samp>04 / INSTALLABLE</samp>
+
 Installable packages across npm, PyPI, and Homebrew.
 
 <br>
@@ -256,6 +304,8 @@ Installable packages across npm, PyPI, and Homebrew.
 
 ## Agent Rules Suite
 
+<samp>05 / OPEN SPECIFICATIONS</samp>
+
 Open specifications for AI agent governance, continuity, and orientation.
 
 <br>
@@ -268,6 +318,8 @@ Open specifications for AI agent governance, continuity, and orientation.
 <br>
 
 ## Stack
+
+<samp>06 / WORKING MATERIALS</samp>
 
 <div align="center">
 
@@ -297,6 +349,11 @@ Open specifications for AI agent governance, continuity, and orientation.
 ---
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-seed.png">
+  <img src="https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/profile-motion/profile-seed.gif" width="42" alt="">
+</picture>
 
 <samp>Planting the seeds of tomorrow's tech field today.</samp>
 

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "generator": "assets/profile-motion/render.py",
+  "fps": 12,
+  "outputs": [
+    {
+      "file": "profile-system-light.gif",
+      "bytes": 79493,
+      "sha256": "65fbbaac5de5570018b49a72c9e68801c5b3541056b1202ce3b8048d347aed7e"
+    },
+    {
+      "file": "profile-system-light.png",
+      "bytes": 8420,
+      "sha256": "781facd7f05bf508d5b0fafab4f1b4641bf31493a83242d88706afaf8ef441ed"
+    },
+    {
+      "file": "versed-feature-light.gif",
+      "bytes": 177893,
+      "sha256": "0828d257e7bb40057b93962a5869eddc6a57c3c23ccd4a3282fd13ed84f18693"
+    },
+    {
+      "file": "versed-feature-light.png",
+      "bytes": 17828,
+      "sha256": "110af88ddf0550fa8d7905b963d6ded4bb7eaa95cc80da272deb9e5891a32efb"
+    },
+    {
+      "file": "profile-system-dark.gif",
+      "bytes": 82763,
+      "sha256": "366e03c85d142dac4c81281be5991661c49c38671bc385da5495875306148b9a"
+    },
+    {
+      "file": "profile-system-dark.png",
+      "bytes": 8443,
+      "sha256": "601e1cb699ad411ee68ad57f19b9a4f32619d79fec9c901f72ed126d87240f4d"
+    },
+    {
+      "file": "versed-feature-dark.gif",
+      "bytes": 173746,
+      "sha256": "c401d45e578fd8ec65af8f1357e1d392173d3e0998ed2ddde1910ed6bb78abb1"
+    },
+    {
+      "file": "versed-feature-dark.png",
+      "bytes": 17890,
+      "sha256": "5aae2b97a697f14278b8ced560183f04165bd4cd4d020ae705703a8cb0f493c4"
+    },
+    {
+      "file": "profile-seed.gif",
+      "bytes": 5416,
+      "sha256": "2a746f1e551243a53b33dc13e5aee899e4fe034210a800dad37ae47afd57c49e"
+    },
+    {
+      "file": "profile-seed.png",
+      "bytes": 454,
+      "sha256": "9ebe4976fcc5cc431569db7687ffd3f0bcf8952008c0533a637cd5e1e9402286"
+    }
+  ]
+}
