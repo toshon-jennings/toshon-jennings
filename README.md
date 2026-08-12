@@ -7,7 +7,7 @@
 
 # Toshon Jennings
 
-<samp>forward deployed engineer · product architect · educator</samp>
+<samp>forward deployed engineer · it admin · educator</samp>
 
 <br>
 
