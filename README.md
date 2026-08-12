@@ -250,38 +250,6 @@ Installable packages across npm, PyPI, and Homebrew.
 | **[claude-taste](https://github.com/toshon-jennings/taste)** `npm` Learned coding preferences for Claude Code and other agents/harnesses — captured from real signals, stored as markdown, shared over git. | **[perci-story](https://github.com/toshon-jennings/perci-story)** `npm` Build an evidence-backed product story from Git history and an optional Graphify knowledge graph. | **[separate-cli-blocks](https://github.com/toshon-jennings/separate-cli-blocks)** `npm` Universal agent standard enforcing one CLI command per Markdown code block. Installable via `npx separate-cli-blocks`. |
 | **[config-map](https://github.com/toshon-jennings/config-map)** `PyPI` A beautiful terminal map of your configuration files. | **[graphify-diff](https://github.com/toshon-jennings/graphify-diff)** `PyPI` Patch a Graphify knowledge graph incrementally from git diffs — no re-extraction, no LLM calls. | |
 
-### Homebrew install and update
-
-Add the tap:
-
-```bash
-brew tap toshon-jennings/tap
-```
-
-Install the macOS apps:
-
-```bash
-brew install --cask fmk-toolbox oc-rig
-```
-
-Install Open Anyway and the command-line utilities:
-
-```bash
-brew install open-anyway cleanmac github-overview
-```
-
-Refresh Homebrew package information:
-
-```bash
-brew update
-```
-
-Upgrade the installed packages from this tap:
-
-```bash
-brew upgrade fmk-toolbox oc-rig open-anyway cleanmac github-overview
-```
-
 <br>
 
 ## Agent Rules Suite
