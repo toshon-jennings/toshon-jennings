@@ -15,6 +15,7 @@ Building tools at the intersection of **AI**, **developer experience**, and **tr
 
 [![StudioOS](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/studioos.svg)](https://studioos.dev/u/toshon.tech)
 [![X](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/x.svg)](https://x.com/toshonjennings)
+[![Workshop](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/workshop.svg)](https://workshop.studioos.dev)
 <!-- [![CRTA](https://raw.githubusercontent.com/toshon-jennings/toshon-jennings/main/assets/badges/crta.svg)](https://toshon-jennings.github.io/crta/) -->
 
 </div>
