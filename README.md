@@ -214,9 +214,9 @@ Port-awareness tool for developers. Real port scanning with process identificati
 
 ### [CAps ™](https://github.com/toshon-jennings/DoubleCapsCorrect)
 
-Background keyboard utility. Detects and corrects accidental double-caps from holding Shift too long.
+Background keyboard utility. Detects and corrects accidental double-caps from holding Shift too long. Windows today; macOS and Linux in progress.
 
-`C` · `Background Service`
+`AutoHotkey` · `Windows` · `Background Service`
 
 </td>
 </tr>
