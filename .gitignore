@@ -1,0 +1,9 @@
+# Agent session state. This repo is public and renders as the GitHub profile,
+# so nothing a coding session leaves behind belongs in it.
+#
+# .claude/taste-signals.jsonl in particular is a verbatim log of prompts typed
+# during a session. Not secret, but not profile content either, and the kind of
+# thing that gets committed by accident with a `git add -A`.
+.claude/
+
+.DS_Store
