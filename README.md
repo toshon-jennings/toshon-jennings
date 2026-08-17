@@ -121,7 +121,7 @@ Hermes agent desktop app. Native terminal, multi-provider support, streaming cha
 
 ### [PHLCRSH-V2](https://github.com/toshon-jennings/PHLCRSH-V2)
 
-Interactive crash risk engine and street safety mapping dashboard. DuckDB-WASM-powered spatial analysis of KSI hazards across Philadelphia street segments.
+Interactive crash risk engine and street safety mapping dashboard. DuckDB-WASM-powered spatial analysis of KSI hazards across Philadelphia street segments. Expands on [PHLCRSH](https://github.com/benpolinsky/PHLCRSH) by Ben Polinsky.
 
 `React` · `DuckDB` · `GIS` · `MapLibre`
 
