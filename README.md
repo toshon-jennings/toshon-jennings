@@ -260,6 +260,26 @@ Local web interface for Apple Intelligence's on-device Foundation Models, with s
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Gatekey Proxy](https://github.com/toshon-jennings/gatekey-proxy)
+
+Loopback-only OpenAI-compatible proxy. Point any agent at one endpoint with a dummy key; it swaps in the real provider key and routes by model prefix. Keys never leave the machine.
+
+`Go` · `Local-first` · `LLM Routing` · `CLI`
+
+</td>
+<td width="50%" valign="top">
+
+### [dotenvx GUI](https://github.com/toshon-jennings/dotenvx-gui)
+
+Local web interface for viewing, editing, encrypting, and running dotenvx environment files. Loopback-bound, per-launch token, home-directory path boundary.
+
+`JavaScript` · `dotenvx` · `Local-first` · `v1.2.0`
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -300,7 +320,7 @@ Installable packages across npm, PyPI, and Homebrew.
 |:---|:---|:---|
 | **[Homebrew Tap](https://github.com/toshon-jennings/homebrew-tap)** `Homebrew` Installation source for Toshon Jennings' macOS tools and command-line utilities. | **[Forget-Me-Knot ToolBox](https://github.com/toshon-jennings/forget-me-knot)** `Homebrew Cask` Lightweight local-first macOS menu bar app for managing daily tools, links & active subscriptions. | **[Versed](https://github.com/apps/versed-app)** `GitHub App` Installable, GitHub-native knowledge workspaces with checkpoints, drafts, history, and linked documents. |
 | **[claude-taste](https://github.com/toshon-jennings/taste)** `npm` Learned coding preferences for Claude Code and other agents/harnesses — captured from real signals, stored as markdown, shared over git. | **[perci-story](https://github.com/toshon-jennings/perci-story)** `npm` Build an evidence-backed product story from Git history and an optional Graphify knowledge graph. | **[separate-cli-blocks](https://github.com/toshon-jennings/separate-cli-blocks)** `npm` Universal agent standard enforcing one CLI command per Markdown code block. Installable via `npx separate-cli-blocks`. |
-| **[config-map](https://github.com/toshon-jennings/config-map)** `PyPI` A beautiful terminal map of your configuration files. | **[graphify-diff](https://github.com/toshon-jennings/graphify-diff)** `PyPI` Patch a Graphify knowledge graph incrementally from git diffs — no re-extraction, no LLM calls. | |
+| **[config-map](https://github.com/toshon-jennings/config-map)** `PyPI` A beautiful terminal map of your configuration files. | **[graphify-diff](https://github.com/toshon-jennings/graphify-diff)** `PyPI` Patch a Graphify knowledge graph incrementally from git diffs — no re-extraction, no LLM calls. | **[dotenvx-gui](https://github.com/toshon-jennings/dotenvx-gui)** `npm` Local GUI for viewing, editing, encrypting, and running dotenvx environment files. Launch with `npx dotenvx-gui`. |
 
 <br>
 
