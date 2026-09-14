@@ -186,6 +186,15 @@ Community fork of OpenCode with an integrated terminal and always-on usage HUD. 
 `TypeScript` · `Astro` · `CSS` · `MDX`
 
 </td>
+<td width="50%" valign="top">
+
+### [Agent Advisor](https://github.com/toshon-jennings/agent-advisor)
+
+Hub for selective AI-agent routing across Codex, Claude Code, and Antigravity: auditable solo/delegate/audit modes, canonical specs, cross-harness comparison, and fail-closed sync to three installable plugins.
+
+`Shell` · `Agent Orchestration` · `Specs`
+
+</td>
 </tr>
 </table>
 
@@ -321,6 +330,7 @@ Installable packages across npm, PyPI, and Homebrew.
 | **[Homebrew Tap](https://github.com/toshon-jennings/homebrew-tap)** `Homebrew` Installation source for Toshon Jennings' macOS tools and command-line utilities. | **[Forget-Me-Knot ToolBox](https://github.com/toshon-jennings/forget-me-knot)** `Homebrew Cask` Lightweight local-first macOS menu bar app for managing daily tools, links & active subscriptions. | **[Versed](https://github.com/apps/versed-app)** `GitHub App` Installable, GitHub-native knowledge workspaces with checkpoints, drafts, history, and linked documents. |
 | **[claude-taste](https://github.com/toshon-jennings/taste)** `npm` Learned coding preferences for Claude Code and other agents/harnesses — captured from real signals, stored as markdown, shared over git. | **[perci-story](https://github.com/toshon-jennings/perci-story)** `npm` Build an evidence-backed product story from Git history and an optional Graphify knowledge graph. | **[separate-cli-blocks](https://github.com/toshon-jennings/separate-cli-blocks)** `npm` Universal agent standard enforcing one CLI command per Markdown code block. Installable via `npx separate-cli-blocks`. |
 | **[config-map](https://github.com/toshon-jennings/config-map)** `PyPI` A beautiful terminal map of your configuration files. | **[graphify-diff](https://github.com/toshon-jennings/graphify-diff)** `PyPI` Patch a Graphify knowledge graph incrementally from git diffs — no re-extraction, no LLM calls. | **[dotenvx-gui](https://github.com/toshon-jennings/dotenvx-gui)** `npm` Manage dotenvx environment files without the CLI, and encrypt keys so the `.env` is safe to commit. Launch with `npx dotenvx-gui`. |
+| **[hearth-cli](https://pypi.org/project/hearth-cli/)** `PyPI` Project & sprint awareness in the terminal — one registry tracking project health, sprint load, and next actions across your machine. | **[anysession](https://pypi.org/project/anysession/)** `PyPI` One fzf picker over every resumable AI coding agent session — Claude Code, Codex, OpenCode, Hermes, and more. | |
 
 <br>
 
