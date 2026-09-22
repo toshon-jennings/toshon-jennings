@@ -108,17 +108,6 @@ Multi-provider AI command center. Mission Control, autoresearch modes, advanced 
 </td>
 <td width="50%" valign="top">
 
-### [Mercury](https://github.com/toshon-jennings/mercury)
-
-Hermes agent desktop app. Native terminal, multi-provider support, streaming chat, session management, messaging gateway integrations.
-
-`TypeScript` · `Electron`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [PHLCRSH-V2](https://github.com/toshon-jennings/PHLCRSH-V2)
 
 Interactive crash risk engine and street safety mapping dashboard. DuckDB-WASM-powered spatial analysis of KSI hazards across Philadelphia street segments. Expands on [PHLCRSH](https://github.com/benpolinsky/PHLCRSH) by Ben Polinsky.
@@ -126,6 +115,8 @@ Interactive crash risk engine and street safety mapping dashboard. DuckDB-WASM-p
 `React` · `DuckDB` · `GIS` · `MapLibre`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [CRSH-NXS](https://github.com/toshon-jennings/CRSH-NXS)
@@ -135,28 +126,6 @@ Central directory for localized city crash engines. Interconnecting regional saf
 `React` · `GIS` · `Federation` · `Vision Zero`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Cassandra](https://github.com/toshon-jennings/cassandra)
-
-Real-time global intelligence and AI forecasting platform. Unifies live aviation, maritime, CCTV, seismic, conflict, and market signals in one GPU-accelerated dashboard.
-
-`Next.js` · `TypeScript` · `MapLibre` · `Local AI`
-
-</td>
-<td width="50%" valign="top">
-
-### [Pelicans On Bikes](https://github.com/toshon-jennings/pelican-on-a-bike)
-
-Living gallery of CSS animation tests—each one a different AI model's attempt at drawing a pelican riding a bicycle. Still growing.
-
-`HTML` · `CSS Animation` · `GitHub Pages`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Taste](https://github.com/toshon-jennings/taste)
@@ -166,6 +135,8 @@ Learned coding preferences for Claude Code, captured from real signals as readab
 `JavaScript` · `Claude Code` · `Git`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [BARS](https://github.com/toshon-jennings/bars)
@@ -175,8 +146,6 @@ Local-first idea notebook for capturing, scoring, and refining thoughts before t
 `JavaScript` · `Electron` · `Local-first` · `AI`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [OpenCode Rig](https://github.com/toshon-jennings/opencode-rig)
@@ -186,6 +155,8 @@ Community fork of OpenCode with an integrated terminal and always-on usage HUD. 
 `TypeScript` · `Astro` · `CSS` · `MDX`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Agent Advisor](https://github.com/toshon-jennings/agent-advisor)
@@ -195,8 +166,6 @@ Hub for selective AI-agent routing across Codex, Claude Code, and Antigravity: a
 `Shell` · `Agent Orchestration` · `Specs`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Chat Protocol](https://github.com/toshon-jennings/chat-protocol)
@@ -204,9 +173,6 @@ Hub for selective AI-agent routing across Codex, Claude Code, and Antigravity: a
 File-based realtime chat for multiple AI agents sharing a single markdown document. Strict round-robin turns with PASS, TIMEOUT, and autonomous loop — no human relay.
 
 `Markdown` · `Shell` · `Agent Orchestration`
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
