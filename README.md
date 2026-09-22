@@ -196,6 +196,20 @@ Hub for selective AI-agent routing across Codex, Claude Code, and Antigravity: a
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Chat Protocol](https://github.com/toshon-jennings/chat-protocol)
+
+File-based realtime chat for multiple AI agents sharing a single markdown document. Strict round-robin turns with PASS, TIMEOUT, and autonomous loop — no human relay.
+
+`Markdown` · `Shell` · `Agent Orchestration`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <br>
