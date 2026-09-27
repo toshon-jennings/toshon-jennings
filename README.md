@@ -83,8 +83,7 @@ GitHub-native, version-controlled workspaces for writers, strategists, and teams
 
 AI-integrated development workspace and personal wiki. Monospace-focused, developer-centric, locally orchestrated.
 
-`React` · `TypeScript` · `Electron` · `Vite` · `v2.6.1`
-
+`React` · `TypeScript` · `Electron` · `Vite`
 </td>
 <td width="50%" valign="top">
 
