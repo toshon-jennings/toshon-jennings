@@ -215,7 +215,7 @@ Background keyboard utility. Detects and corrects accidental double-caps from ho
 
 macOS developer cache cleanup utility. Zero-dependency bash script for uv, pip, npm, bun, Homebrew, Xcode, Docker/OrbStack. Installs via Homebrew tap.
 
-`Bash` · `Homebrew` · `v1.1.0`
+`Bash` · `Homebrew`
 
 </td>
 <td width="50%" valign="top">
@@ -264,7 +264,7 @@ Loopback-only OpenAI-compatible proxy. Point any agent at one endpoint with a du
 
 Manage dotenvx environment files from a local interface — browse, edit, and run them without the CLI. Encrypts secrets in place, so the `.env` is safe to commit to GitHub while the key stays out of the repo.
 
-`JavaScript` · `dotenvx` · `Encrypted secrets` · `v1.2.0`
+`JavaScript` · `dotenvx` · `Encrypted secrets`
 
 </td>
 </tr>
