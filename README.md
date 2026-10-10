@@ -100,7 +100,7 @@ Structured workspace for documentation, knowledge management, and project coordi
 
 ### [Perci](https://github.com/toshon-jennings/perci)
 
-Multi-provider AI command center. Mission Control, autoresearch modes, advanced reasoning, artifacts, intelligent web search. Free, local, security-audited; KeySafe remediation verified in production.. Active development.
+Multi-provider AI command center. Mission Control, autoresearch modes, advanced reasoning, artifacts, intelligent web search. Free, local, security-audited; KeySafe remediation verified in production. Active development.
 
 `React` · `TypeScript` · `Electron` · `Vite`
 
