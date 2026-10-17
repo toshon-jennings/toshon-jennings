@@ -149,7 +149,7 @@ Local-first idea notebook for capturing, scoring, and refining thoughts before t
 
 ### [OpenCode Rig](https://github.com/toshon-jennings/opencode-rig)
 
-Community fork of OpenCode with an integrated terminal and always-on usage HUD. Stays closely aligned with upstream OpenCode.
+Community fork of OpenCode with an integrated terminal, always-on usage HUD, and a built-in GitHub Overview tab — repo status, CI runs, issues/PRs, and Dependabot alerts without leaving the editor.
 
 `TypeScript` · `Astro` · `CSS` · `MDX`
 
