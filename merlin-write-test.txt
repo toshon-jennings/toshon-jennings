@@ -1,0 +1,2 @@
+Merlin write-access test — temporary file, deleted after verification.
+Created: 2026-10-18
