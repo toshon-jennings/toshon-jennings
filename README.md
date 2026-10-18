@@ -46,9 +46,11 @@ const toshon = {
 
 <br>
 
-Now
+## Now
 
-00 / NOW
+<samp>00 / NOW</samp>
+
+<br>
 
 - 💬 StudioOS (https://studioos.dev) — shipped real-time Messaging (DMs, project channels, live unread counts) and a public API for building integrations on StudioOS data
 - 🌊 Metropolis — the 2.5D workspace view got a coastal landmass, bay, and animated toy landmarks you can poke
