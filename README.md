@@ -52,10 +52,10 @@ const toshon = {
 
 <br>
 
-- 💬 StudioOS (https://studioos.dev) — shipped real-time Messaging (DMs, project channels, live unread counts) and a public API for building integrations on StudioOS data
+- 💬 [StudioOS](https://studioos.dev) — shipped real-time Messaging (DMs, project channels, live unread counts) and a public API for building integrations on StudioOS data
 - 🌊 Metropolis — the 2.5D workspace view got a coastal landmass, bay, and animated toy landmarks you can poke
 - 🔐 Ops — nightly Supabase backups + Uptime Kuma monitoring on a private box, off the public internet
-- 🚧 Next — deeper Versed (https://versed-studioos.vercel.app) integration: versioned writing and GitHub review inside StudioOS
+- 🚧 Next — deeper [Versed](https://versed-studioos.vercel.app) integration: versioned writing and GitHub review inside StudioOS
 
 <br>
 
