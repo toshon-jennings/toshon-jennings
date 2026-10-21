@@ -54,8 +54,8 @@ const toshon = {
 
 - 💬 [StudioOS](https://studioos.dev) — shipped real-time Messaging (DMs, project channels, live unread counts) and a public API for building integrations on StudioOS data
 - 🌊 Metropolis — the 2.5D workspace view got a coastal landmass, bay, and animated toy landmarks you can poke
-- 🔐 Ops — nightly Supabase backups + Uptime Kuma monitoring on a private box, off the public internet
-- 🚧 Next — deeper [Versed](https://versed-studioos.vercel.app) integration: versioned writing and GitHub review inside StudioOS
+- 🚢 Versed x StudioOS — integration shipped (v2.13.73 + v0.4.15) and approved on the Google Workspace Marketplace
+- 🚧 Next — GitHub review inside StudioOS: checkpoints, diffs, and PR context on project-linked Versed workspaces
 
 <br>
 
