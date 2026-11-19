@@ -56,6 +56,7 @@ const toshon = {
 - 🌊 Metropolis — the 2.5D workspace view got a coastal landmass, bay, and animated toy landmarks you can poke
 - 🚢 Versed x StudioOS — integration shipped (v2.13.73 + v0.4.15) and approved on the Google Workspace Marketplace
 - 🚢 Puck — M8 shipped: Calendar/Reminders/Contacts + desktop-window tools behind per-turn consent; M9 quick chat committed for 0.11.0 — summon over any app, type without losing focus
+- 🧷 Klipit — v0.4.5 live on the Chrome Web Store (first approval since June); save-a-link memory with a graph, local-first
 - 🚧 Next — signed DMG release and installed-app permission continuity for Puck 0.11.0
 
 <br>
